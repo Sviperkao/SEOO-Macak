@@ -1,0 +1,32 @@
+[debug] scrollYProgress: 0.5148234080948698
+PinnedHeroSection.jsx:69 [debug] container rect {top: -2032, bottom: 1847, height: 3879}
+PinnedHeroSection.jsx:50 [debug] scrollYProgress: 0.5238463521526167
+PinnedHeroSection.jsx:69 [debug] container rect {top: -2066, bottom: 1813, height: 3879}
+PinnedHeroSection.jsx:50 [debug] scrollYProgress: 0.5326114978087136
+PinnedHeroSection.jsx:69 [debug] container rect {top: -2103, bottom: 1776, height: 3879}
+PinnedHeroSection.jsx:50 [debug] scrollYProgress: 0.5421500386697602
+PinnedHeroSection.jsx:69 [debug] container rect {top: -2139, bottom: 1740, height: 3879}
+PinnedHeroSection.jsx:50 [debug] scrollYProgress: 0.551430781129157
+PinnedHeroSection.jsx:69 [debug] container rect {top: -2178, bottom: 1701, height: 3879}
+PinnedHeroSection.jsx:50 [debug] scrollYProgress: 0.5614849187935035
+PinnedHeroSection.jsx:69 [debug] container rect {top: -2214, bottom: 1665, height: 3879}
+PinnedHeroSection.jsx:50 [debug] scrollYProgress: 0.5707656612529002
+PinnedHeroSection.jsx:69 [debug] container rect {top: -2249, bottom: 1630, height: 3879}
+PinnedHeroSection.jsx:50 [debug] scrollYProgress: 0.579788605310647
+PinnedHeroSection.jsx:69 [debug] container rect {top: -2289, bottom: 1590, height: 3879}
+PinnedHeroSection.jsx:50 [debug] scrollYProgress: 0.5901005413766435
+PinnedHeroSection.jsx:69 [debug] container rect {top: -2336, bottom: 1543, height: 3879}
+PinnedHeroSection.jsx:50 [debug] scrollYProgress: 0.6022170662541892
+PinnedHeroSection.jsx:56 [debug] cardsOpacity: 0.0073902208472975675
+PinnedHeroSection.jsx:69 [debug] container rect {top: -2389, bottom: 1490, height: 3879}
+PinnedHeroSection.jsx:50 [debug] scrollYProgress: 0.6158803815416345
+PinnedHeroSection.jsx:56 [debug] cardsOpacity: 0.052934605138781704
+PinnedHeroSection.jsx:69 [debug] container rect {top: -2448, bottom: 1431, height: 3879}
+PinnedHeroSection.jsx:50 [debug] scrollYProgress: 0.6310904872389791
+PinnedHeroSection.jsx:56 [debug] cardsOpacity: 0.1036349574632637
+PinnedHeroSection.jsx:69 [debug] container rect {top: -2523, bottom: 1356, height: 3879}
+PinnedHeroSection.jsx:50 [debug] scrollYProgress: 0.6504253673627224
+PinnedHeroSection.jsx:56 [debug] cardsOpacity: 0.16808455787574134
+PinnedHeroSection.jsx:69 [debug] container rect {top: -2586, bottom: 1293, height: 3879}
+PinnedHeroSection.jsx:50 [debug] scrollYProgress: 0.6666666666666666
+PinnedHeroSection.jsx:56 [debug] cardsOpacity: 0.22222222222222213
