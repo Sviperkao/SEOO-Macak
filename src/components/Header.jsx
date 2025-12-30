@@ -23,6 +23,7 @@ export default function Header() {
           <Link to="/izrada-sajtova/">Izrada sajtova</Link>
           <Link to="/seo/">SEO</Link>
           <Link to="/blog/">Blog</Link>
+          <Link to="/about/">O nama</Link>
           <Link to="/kontakt/" className="btn nav-cta">Kontakt</Link>
         </nav>
       </div>
